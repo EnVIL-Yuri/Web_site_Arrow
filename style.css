@@ -1,0 +1,58 @@
+body,
+
+.police-sympa{ 
+    font-family: 'Liu Jian Mao Cao', cursive;
+
+}
+h1{font-size: 75px}
+h1{color: green;}
+h2{font-size: 50px}
+h2{color: green;}
+h3{font-size: 40px}
+h3{color: green;}
+p{font-size: 35px}
+b{font-size: 35px}
+ul{font-size: 50px}
+
+
+body{
+	background-image: url(images/arrow.jpg);
+	color:white;
+
+}
+
+#conteneur
+{
+	display: flex;
+	justify-content: space-around;
+	
+}
+
+a:visited {
+	color: green;
+}
+
+b:visited {
+	color: white
+}
+
+table,
+th,
+td{
+    border: solid green;
+	padding: 15px;
+	text-align: center;
+	font-size: 5px
+}
+
+table{
+	border-collapse: collapse;
+}
+
+th{
+	font-size: 40px
+}
+
+td{
+	font-size: 35px
+}
